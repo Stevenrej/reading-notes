@@ -2,7 +2,7 @@
 
 ## **Table of Contents**
 
-- [Reading Notes 1](https://stevenrej.github.io/reading-notes/reading1)
+- [Reading Notes 1](https://stevenrej.github.io/reading-notes/class-01)
 
 - [Reading Notes 2](https://stevenrej.github.io/reading-notes/reading2)
 
