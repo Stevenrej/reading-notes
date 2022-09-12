@@ -84,7 +84,7 @@ while a number is (let varible = 10)
 
 
 
-Introduction to HTML
+## Introduction to HTML
 
 What is HTML?
 HTML (HyperText Markup Language) is a markup language that tells web browsers how to structure the web pages you visit. It can be as complicated or as simple as the web developer wants it to be. HTML consists of a series of elements, which you use to enclose, wrap, or mark up different parts of content to make it appear or act in a certain way. The enclosing tags can make content into a hyperlink to connect to another page, italicize words, and so on.
@@ -161,7 +161,7 @@ footer: <footer>.
 6. it is used to specify character set, page description, keywords, author of the document, and viewport settings
 
 
-Miscellaneous
+## Miscellaneous
 
 How to start to design a Website.
 
