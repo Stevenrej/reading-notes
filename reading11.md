@@ -4,11 +4,11 @@
 
 1. Explain how the ability to use video and audio on the web has evolved since the early 2000s. - It much easier to embed videos since then, as well as stream videos from hosting sites.
 
-2. Describe the use of the src and controls attributes in the <video> element. - the src is to define where the video is being helped and the controls give you control of how the video is played
+2. Describe the use of the src and controls attributes in the video element. - the src is to define where the video is being helped and the controls give you control of how the video is played
 
-3. Why is it important to have fallback content inside the <video> element? - If someone needs the accessibility and or the video does not load properly
+3. Why is it important to have fallback content inside the video element? - If someone needs the accessibility and or the video does not load properly
 
-4. Write a very short story where <audio> and <video> are characters. - Without one they are not fully whole, though the video may show without audio it is just moving pictures. And though the audio may tell a story it may not portray its character. In the end, without each other, the whole story is not told.
+4. Write a very short story where audio and video are characters. - Without one they are not fully whole, though the video may show without audio it is just moving pictures. And though the audio may tell a story it may not portray its character. In the end, without each other, the whole story is not told.
 
 ## A Complete Guide To Grid
 
