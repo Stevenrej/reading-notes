@@ -30,5 +30,7 @@
 
 - [Reading Notes 14](https://stevenrej.github.io/reading-notes/reading14_3)
 
+- [Reading Notes 15](https://stevenrej.github.io/reading-notes/reading15_3)
+
 
 [Back to Main Page](https://stevenrej.github.io/reading-notes/)
