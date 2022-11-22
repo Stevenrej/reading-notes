@@ -12,4 +12,4 @@
 
 - [Code 301 Reading Notes](https://stevenrej.github.io/reading-notes/readingnotes301main)
 
--[Code 401 Reading Notes](https://stevenrej.github.io/reading-notes/readingnotes401main)
+ -[Code 401 Reading Notes](https://stevenrej.github.io/reading-notes/readingnotes401main)
