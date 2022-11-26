@@ -2,6 +2,8 @@
 
 ## **Table of Contents**
 
+- [SQL Notes](https://stevenrej.github.io/reading-notes/SQLnotes)
+
 - [Reading Notes 1](https://stevenrej.github.io/reading-notes/class-01_4)
 
 - [Reading Notes 2](https://stevenrej.github.io/reading-notes/reading2_4)
