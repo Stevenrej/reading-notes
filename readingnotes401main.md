@@ -8,6 +8,8 @@
 
 - [Engineering](https://stevenrej.github.io/reading-notes/engineering)
 
+- [Terminal Practice](https://stevenrej.github.io/reading-notes/terminal)
+
 - [Reading Notes 1](https://stevenrej.github.io/reading-notes/class-01_4)
 
 - [Reading Notes 2](https://stevenrej.github.io/reading-notes/reading2_4)
