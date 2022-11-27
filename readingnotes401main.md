@@ -4,6 +4,10 @@
 
 - [SQL Notes](https://stevenrej.github.io/reading-notes/SQLnotes)
 
+- [Data Structures and Algorithms](https://stevenrej.github.io/reading-notes/d&a)
+
+- [Engineering](https://stevenrej.github.io/reading-notes/engineering)
+
 - [Reading Notes 1](https://stevenrej.github.io/reading-notes/class-01_4)
 
 - [Reading Notes 2](https://stevenrej.github.io/reading-notes/reading2_4)
