@@ -4,7 +4,7 @@
 
 1. How would you describe Node to a non-technical friend?
 
-- Node allows you to install and use tools to help with creating and running websites as well as taking care of tasks that allow webistes to run smoothly behind the scenes.
+- Node allows you to install and use tools to help with creating and running websites as well as taking care of tasks that allow websites to run smoothly behind the scenes.
 
 2. What does it mean that Node is a JavaScript runtime?
 
@@ -18,8 +18,8 @@
 
 1. Looking ahead at this module’s course schedule, What do you look forward to learning?
 
-- I look forward the most to getting deeper into React and seeing what more we can get out of that framework, as well as getting a better understanding of of AWS and what we can do with it.
+- I look forward the most to getting deeper into React and seeing what more we can get out of that framework, as well as getting a better understanding of AWS and what we can do with it.
 
 2. What are your learning goals after reading and reviewing the class README?
 
-- Have an excelent understaind of javascript as well as being confident into my journey getting a career as a fullstack software developer.
+- Have an excellent understanding of javascript as well as being confident into my journey getting a career as a full-stack software developer.
